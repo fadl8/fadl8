@@ -10,11 +10,8 @@
 - 💗 Passionate to learn any thing new
 - ❓ Ask me about anything related to MERN stack and related technologies  
 
- 
-
-
-## 🥰 Feel Free to Contact me..... 
-<div align="center"> 
+## 🥰 Feel Free to Contact me
+<div align="left"> 
 <a href="https://www.linkedin.com/in/fadhl-nasser-12b177208/"><img alt="linkedin" width="10%" style="padding:5px" src="https://img.icons8.com/clouds/100/000000/linkedin.png"/></a>
 <a href="https://fadhl3030nasser@gmail.com" ><img alt=Gmail  width="10%" style="padding:5px" src="https://img.icons8.com/clouds/100/000000/apple-mail.png"/></a> 
 </div>  
