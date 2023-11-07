@@ -2,10 +2,6 @@
 <h2>  👋 Hi, I’m Fadl Nasser <img src="https://media.giphy.com/media/W7Lz7rd1T4z7g4uS17/giphy.gif" width="50"></h2> 
 
 <h3 align="left">Senior Software Engineer and  Full stack web developer in .NET Core , Laravel & Vue.js</h3>  
-<h4 align="left">Let me Show You our life; its like that</h4>  
-
-<img src="https://media.giphy.com/media/1C8bHHJturSx2/giphy.gif" width="300"></h2> 
-
 - 💗 Passionate about systems analysis and database design . 
 - 💗 Passionate to learn any thing new
 - ❓ Ask me about anything related to MERN stack and related technologies  
